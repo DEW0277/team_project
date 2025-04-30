@@ -17,6 +17,12 @@ function Home() {
         quae! Fugiat, quam. Esse velit neque vel officia voluptates. Laborum
         ullam tenetur amet sunt sapiente neque eligendi.
       </p>
+
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit nobis
+        perferendis, veritatis quibusdam vel ipsam sed nemo porro tenetur
+        dolores.
+      </p>
     </div>
   );
 }

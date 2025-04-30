@@ -12,6 +12,7 @@ function App() {
           <Route path={navLink.path} element={navLink.element} />
         ))}
         <Route path='*' element={<PageNotFound />} />
+        
       </Routes>
     </div>
   );
